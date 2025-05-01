@@ -1,4 +1,3 @@
-const currentYear = new Date().getFullYear();
-const text = `Sekarang adalah tahun ${currentYear}.`; //penggunaan backtick
-
-console.log(text);
+const age = 10;
+const name = 'Dicoding';
+console.log(`Aku ${name}, umurku ${age} tahun.`);
