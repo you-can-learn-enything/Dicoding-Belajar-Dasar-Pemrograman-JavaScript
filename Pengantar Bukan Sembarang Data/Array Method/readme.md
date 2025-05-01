@@ -1,0 +1,1 @@
+Array Method memiliki banyak sekali method atau fungsi bawaan yang dapat digunakan untuk memudahkan proses pengelolaan atau penggunaannya.
